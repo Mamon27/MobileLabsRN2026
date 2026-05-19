@@ -106,13 +106,13 @@
 ---
 
 ## Скріншоти роботи застосунку
-![](screenshots\Completetask.png)
-![](screenshots\Doubleclick.png)
-![](screenshots\Shop.png)
-![](screenshots\Swipe.png)
-![](screenshots\Tasks.png)
-![](screenshots\Головна.png)
-![](screenshots\Головна2.png)
+![](screenshots/Completetask.png)
+![](screenshots/Doubleclick.png)
+![](screenshots/Shop.png)
+![](screenshots/Swipe.png)
+![](screenshots/Tasks.png)
+![](screenshots/Головна.png)
+![](screenshots/Головна2.png)
 ---
 
 ## Висновки
